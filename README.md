@@ -29,3 +29,5 @@ By investigating these questions, we aim to **highlight key risk factors** and s
 
 5. **Map Visualizations**  
    Folium-based interactive heatmaps to pinpoint hotspots for crashes and their severity on a city map.
+
+   
